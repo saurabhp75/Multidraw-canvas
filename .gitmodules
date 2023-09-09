@@ -1,0 +1,6 @@
+[submodule "multidraw-client"]
+	path = multidraw-client
+	url = https://github.com/saurabhp75/multidraw-client
+[submodule "multidraw-server"]
+	path = multidraw-server
+	url = https://github.com/saurabhp75/multidraw-server
